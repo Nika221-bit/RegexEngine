@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\obj\Debug\net10.0\RegexEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\obj\Debug\net10.0\RegexEngine.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\obj\Debug\net10.0\RegexEngine.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\obj\Debug\net10.0\RegexEngine.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\obj\Debug\net10.0\RegexEngine.sourcelink.json
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\bin\Debug\net10.0\RegexEngine.exe
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\bin\Debug\net10.0\RegexEngine.deps.json
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\bin\Debug\net10.0\RegexEngine.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\bin\Debug\net10.0\RegexEngine.dll
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\bin\Debug\net10.0\RegexEngine.pdb
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\obj\Debug\net10.0\RegexEngine.dll
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\obj\Debug\net10.0\refint\RegexEngine.dll
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\obj\Debug\net10.0\RegexEngine.pdb
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\obj\Debug\net10.0\RegexEngine.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\RegexEngine\RegexEngine\obj\Debug\net10.0\ref\RegexEngine.dll
