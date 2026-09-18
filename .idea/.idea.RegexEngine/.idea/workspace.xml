@@ -13,40 +13,106 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f627c47a-8730-460d-a708-9e8a89d58342" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/RegexEngine/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RegexEngine/obj/project.packagespec.json" afterDir="false" />
-    </list>
+    <list default="true" id="f627c47a-8730-460d-a708-9e8a89d58342" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3" />
+    <option name="cachedIndexableFilesCount" value="7" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Nika221-bit"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nika221-bit&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Nika221-bit/RegexEngine.git",
-    "accountId": "470dced2-6e33-4e15-9050-e282188b2c4c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nika221-bit/RegexEngine.git&quot;,
+    &quot;accountId&quot;: &quot;470dced2-6e33-4e15-9050-e282188b2c4c&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RegexEngine/Moduls/DigitRule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RegexEngine/Moduls/LiteralRule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RegexEngine/Moduls/RegexRule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RegexEngine/Moduls/SequenceMatcher.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000001740235" />
+      <entry key="MS500" value="1.0111717577059507" />
+      <entry key="S2" value="1.325118103941321" />
+      <entry key="S5" value="1.6500904702305048" />
+      <entry key="S10" value="1.9496686886285353" />
+      <entry key="S30" value="2.8594868649763407" />
+      <entry key="S60" value="4.612408781426878" />
+      <entry key="M2" value="11.538409737232238" />
+      <entry key="M5" value="33.457005002715995" />
+      <entry key="M10" value="52.06739018565089" />
+      <entry key="M15" value="60.839807518333906" />
+      <entry key="M30" value="71.36154336899132" />
+      <entry key="H1" value="77.64057170474997" />
+      <entry key="H2" value="84.12888467748299" />
+      <entry key="H4" value="95.40519062894508" />
+      <entry key="D1" value="123.04853142216405" />
+      <entry key="W1" value="131.44499160114333" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="4.670239913878088E-7" />
+      <entry key="MS500" value="0.05421283877938401" />
+      <entry key="S2" value="0.5661294496525571" />
+      <entry key="S5" value="1.3879305132970101" />
+      <entry key="S10" value="2.7437653830908504" />
+      <entry key="S30" value="6.225630996932401" />
+      <entry key="S60" value="8.282597136604327" />
+      <entry key="M2" value="10.17010185935219" />
+      <entry key="M5" value="12.782296723480398" />
+      <entry key="M10" value="14.453574939388306" />
+      <entry key="M15" value="15.181543546433105" />
+      <entry key="M30" value="16.023480438729287" />
+      <entry key="H1" value="16.588012139703768" />
+      <entry key="H2" value="18.04938749584745" />
+      <entry key="H4" value="21.72121294582019" />
+      <entry key="D1" value="31.444933228216016" />
+      <entry key="W1" value="34.443654937300586" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.10957571733399055" />
+      <entry key="MS500" value="0.6620593790701751" />
+      <entry key="S2" value="1.4774293440133142" />
+      <entry key="S5" value="2.636538689080598" />
+      <entry key="S10" value="4.339438076536166" />
+      <entry key="S30" value="8.849848430207023" />
+      <entry key="S60" value="12.729094974446584" />
+      <entry key="M2" value="21.57780503158438" />
+      <entry key="M5" value="46.14389381154621" />
+      <entry key="M10" value="66.45714355511252" />
+      <entry key="M15" value="75.97393446312269" />
+      <entry key="M30" value="87.35845092213121" />
+      <entry key="H1" value="94.21444109681399" />
+      <entry key="H2" value="102.17068393857359" />
+      <entry key="H4" value="117.12211179834935" />
+      <entry key="D1" value="154.49254103531283" />
+      <entry key="W1" value="165.88850551268376" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JKi3yd5IXFG0Iphb36Cpl9ktpp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,6 +120,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.RegexEngine.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -105,6 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1789415968035</updated>
       <workItem from="1789415970072" duration="1182000" />
+      <workItem from="1789681983627" duration="2286000" />
     </task>
     <servers />
   </component>
