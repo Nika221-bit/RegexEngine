@@ -14,6 +14,7 @@ public class Program
             new LiteralRule('G')  
         };
 
+        
         SequenceMatcher matcher = new SequenceMatcher(rules);
 
         Console.WriteLine(matcher.Validate("80KG")); 
