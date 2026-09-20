@@ -13,7 +13,6 @@ public class Program
             new LiteralRule('K'), 
             new LiteralRule('G')  
         };
-
         
         SequenceMatcher matcher = new SequenceMatcher(rules);
 
