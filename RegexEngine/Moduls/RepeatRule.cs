@@ -4,30 +4,43 @@ namespace RegexEngine.Moduls;
 
 public abstract class RepeatRule : RegexRule
 {
+ 
+   private RegexRule _innerRule;
+   private int _min;
+   private int _max;
     
-    private Regex _innerRule;
-    private int _max;
-    private int _min;
+   protected RepeatRule(RegexRule innerRule, int min, int max)
+   {
+      _innerRule = innerRule;
+      _min = min;
+      _max = max;
+   }
+   
+   public override int Consume(string text, int position)
+   {
+      int totalConsumed = 0;
+      int currentPos = position;
+      int matchCount = 0;
 
-    public RepeatRule(Regex innerRule, int max = int.MaxValue, int min = 0)
-    {
-        _innerRule = innerRule;
-        _max = max;
-        _min = min;
-    }
+      while (matchCount < _max)
+      {
+         int Consumed = _innerRule.Consume(text, currentPos);
 
-    public override int Consume(string text, int position)
-    {
-        int totalConsumed = 0;
-        int currentPos = position;
-        int matchCount = 0;
+         if (Consumed == -1)
+         {
+            break;
+         }
+         totalConsumed += Consumed;
+         currentPos += Consumed;
+         matchCount++;
+      }
 
-        while (matchCount < _max)
-        {
-           int Consumed = _innerRule.Consume(text, currentPos);
-        }
-    }
+      if (totalConsumed == _min)
+      {
+         return -1;
+      }
+      return totalConsumed;
+   }
 
-    
 
 }
