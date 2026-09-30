@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegexEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3a43b79161321e1db6b3c05a0ea1ae6a8ec662a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86e9e57ff75964d8ec0e4f1ed4ed88719ecc37a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegexEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegexEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

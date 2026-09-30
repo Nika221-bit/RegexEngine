@@ -1,10 +1,10 @@
 ﻿namespace RegexEngine.Moduls;
 
-public abstract class AnyRule:RegexRule
+public  class AnyRule:RegexRule
 {
     public override int Consume(string text, int position)
     {
-        if (position <= text.Length)
+        if (position >= text.Length)
         {
             return -1;
         }
